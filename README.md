@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, llameow here.
+Welcome to my profile! I've categorised projects I've worked on/I'm working on for you to view and if you want, use as your own.
 
-<!--
-**llameow/llameow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+All I ask is for you **not** to resell it, and if you've used it, do give credit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Contacts/Socials: 
+Discord: 
+https://discord.gg/2HR4EqbhEKK (support server) 
+
+Youtube: 
+https://www.youtube.com/channel/UCh6scSxapeyPCfAljYWco9w (tutorials for discord stuff and roblox scripting)
+
+
+
