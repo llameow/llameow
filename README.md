@@ -8,7 +8,7 @@ All I ask is for you **not** to resell it, and if you've used it, do give credit
 
 ## Contacts/Socials: 
 Discord: 
-https://discord.gg/2HR4EqbhEKK (support server) 
+https://discord.gg/ke6Vb4T8mF (support server) 
 
 Youtube: 
 https://www.youtube.com/channel/UCh6scSxapeyPCfAljYWco9w (tutorials for discord stuff and roblox scripting)
