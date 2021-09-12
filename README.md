@@ -1,3 +1,4 @@
+![](https://github.com/llameow/llameow/blob/main/llameow.jpg)
 ## Hey, llameow here.
 Welcome to my profile! I've categorised projects I've worked on/I'm working on for you to view and if you want, use as your own.
 
