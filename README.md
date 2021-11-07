@@ -26,13 +26,7 @@
 
 </a></p></h3>
 
-
-
-
-
-
-
-<h1 align="center">contact me</h1>
+<h1 align="center">contact me 🤙</h1>
 <p align="center">click the banner and send me a request on discord!</p>
 
 <p align="center">
