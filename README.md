@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://open.spotify.com/user/pt3ystyisrsbyx13e4rese2ra"><img src="https://novatorem-orcin.vercel.app/api/spotify"/></a>
+    <a href="https://open.spotify.com/user/ydos5vt5gwuv9ijqhuh6flc6o"><img src="https://novatorem-orcin.vercel.app/api/spotify"/></a>
 </p>
 
 <h1 align="center">contact</h1>
