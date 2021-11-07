@@ -1,5 +1,7 @@
-<h1 align="center">i'm llameow 😸</h1>
+<h1 align="center">i'm llameow 😸🦙</h1>
+<p align="center">small roblox developer and </p>
 <h3 align="center"><a href="google.com">my website</a></p></h3>
+
 
 <h1 align="center">bop with me 🎶</h1>
 
