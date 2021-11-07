@@ -1,5 +1,5 @@
-<h1 align="center">llameow</h1>
-<h3 align="center">wwwwwwwwr</h3>
+<h1 align="center">about me</h1>
+<h3 align="center">i'm llameow</h3>
 
 <p align="center">
     "beans" <br />
