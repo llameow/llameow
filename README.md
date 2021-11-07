@@ -6,13 +6,19 @@
 
 <h1 align="center">bop with me NOW 🎶</h1>
 
+<h3 align="center">what i'm listening to:</h3>
+
 <p align="center">
     <a href="https://open.spotify.com/user/ydos5vt5gwuv9ijqhuh6flc6o?si=7e793bfe678e4320"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ydos5vt5gwuv9ijqhuh6flc6o&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/></a>
 </p>
 
+<h3 align="center">what i was listening to:</h3>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=llameow&width=400)
+<h3 align="center"> 
 
+![scrobbles](https://lastfm-recently-played.vercel.app/api?user=llameow&width=350&count=3)  
+
+</a></p></h3>
 
 
 
