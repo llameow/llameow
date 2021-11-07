@@ -6,10 +6,6 @@
     ~ wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 </p>
 
-<p align="center">
-    <a href="https://open.spotify.com/user/ydos5vt5gwuv9ijqhuh6flc6o"><img src="https://novatorem-orcin.vercel.app/api/spotify"/></a>
-</p>
-
 <h1 align="center">contact</h1>
 <p align="center">you can message me on discord by clicking below</p>
 
