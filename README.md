@@ -1,6 +1,10 @@
 <h1 align="center">i'm llameow 😸🦙</h1>
-<p align="center">experimenting with different languages and their applications.</p>
-<p align="center">made a couple small games on roblox</p>
+<h3 align="center">what i've made while experimenting with different languages and their applications.</h3>
+
+<p align="center">
+<strong>Lua:</strong> small games on ROBLOX based off concepts i've thought about <br></br>
+<strong>JavaScript:</strong> bunch of bots using the discord.js library </p>
+
 <h3 align="center"><a href="google.com">my website</a></p></h3>
 
 
