@@ -6,7 +6,8 @@
 
 <h1 align="center">bop with me 🎶</h1>
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=ydos5vt5gwuv9ijqhuh6flc6o&cover_image=true&theme=default)]]
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ydos5vt5gwuv9ijqhuh6flc6o&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h1 align="center">contact me</h1>
 <p align="center">click the banner and send me a request on discord!</p>
