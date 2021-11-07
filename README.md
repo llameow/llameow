@@ -6,7 +6,7 @@
 
 <h1 align="center">bop with me 🎶</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ydos5vt5gwuv9ijqhuh6flc6o&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ydos5vt5gwuv9ijqhuh6flc6o&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h1 align="center">contact me</h1>
 <p align="center">click the banner and send me a request on discord!</p>
