@@ -1,4 +1,4 @@
-<h1 align="center">i'm llameow</h1>
+<h1 align="center">i'm llameow 😸</h1>
 <h3 align="center"><a href="google.com">my website</a></p></h3>
 
 <p align="i find code fascinating">
