@@ -1,7 +1,7 @@
-<h1 align="center">about me</h1>
+<h1 align="center">i'm llameow</h1>
 <h3 align="center">i'm llameow</h3>
 
-<p align="center">
+<p align="i find code fascinating">
     "beans" <br />
     ~ wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 </p>
@@ -9,10 +9,6 @@
 <p align="center">
     <a href="https://open.spotify.com/user/pt3ystyisrsbyx13e4rese2ra"><img src="https://novatorem-orcin.vercel.app/api/spotify"/></a>
 </p>
-
-<h1 align="center">portfolio</h1>
-
-<p align="center">test <a href="google.com">my website</a>.</p>
 
 <h1 align="center">contact</h1>
 <p align="center">you can message me on discord by clicking below</p>
