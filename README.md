@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">contact me</h1>
-<p align="center">on discord</p>
+<p align="center">click the banner and send me a request on discord!</p>
 
 <p align="center">
     <a href="https://discord.com/users/443287359425871872"><img src="https://lanyard-profile-readme.vercel.app/api/443287359425871872"/></a>
