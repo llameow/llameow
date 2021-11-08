@@ -2,10 +2,10 @@
 <h3 align="center">what i've made while experimenting with different languages and their applications:</h3>
 
 <p align="center">
-<strong>Lua:</strong> small games on ROBLOX based off concepts i've thought about <br></br>
-<strong>JavaScript:</strong> bunch of discord bots using the discord.js library <br></br>
-<strong>Python: insulting calculator, dubbed insulculator</strong> <br></br>
-<strong>C++:</strong> program which allows you to open multiple roblox instances, affectionately dubbed rbxfold</p>
+<strong>in Lua:</strong> small games on ROBLOX based off concepts i've thought about <br></br>
+<strong>in JavaScript:</strong> bunch of discord bots using the discord.js library <br></br>
+<strong>in Python: insulting calculator, dubbed insulculator</strong> <br></br>
+<strong>in C++:</strong> program which allows you to open multiple roblox instances, affectionately dubbed rbxfold</p>
 
 <h3 align="center"><a href="google.com">more about me</a></p></h3>
 
