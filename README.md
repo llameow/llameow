@@ -1,4 +1,4 @@
-<h1 align="center">i'm llameow 😸🦙</h1>
+<h1 align="center">i'm llameow 🦙😸</h1>
 <h3 align="center">what i've made while experimenting with different languages and their applications:</h3>
 
 <p align="center">
