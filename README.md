@@ -5,7 +5,7 @@
 <strong>Lua:</strong> small games on ROBLOX based off concepts i've thought about <br></br>
 <strong>JavaScript:</strong> bunch of bots using the discord.js library <br></br>
 <strong>Python: </strong> <br></br>
-<strong>C++:</strong> program which allows you to open multiple roblox instances</p>
+<strong>C++:</strong> program which allows you to open multiple roblox instances, affectionately dubbed rbxfold</p>
 
 <h3 align="center"><a href="google.com">more about me</a></p></h3>
 
