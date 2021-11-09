@@ -22,7 +22,7 @@
 
 <h3 align="center"> 
 
-![scrobbles](https://lastfm-recently-played.vercel.app/api?user=llameow&width=350&count=3)  
+![scrobbles](https://lastfm-recently-played.vercel.app/api?user=burrito&width=350&count=3)  
 
 </a></p></h3>
 
