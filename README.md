@@ -1,5 +1,5 @@
 <h1 align="center">i'm llameow 🦙😸</h1>
-<h3 align="center">what i've made while experimenting with different languages and their applications:</h3>
+<h3 align="center">what i've made while experimenting with different languages and their applications</h3>
 
 <p align="center">
 <strong>in Lua:</strong> small games on ROBLOX based off concepts i've thought about <br></br>
