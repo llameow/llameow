@@ -33,3 +33,4 @@
     <a href="https://discord.com/users/443287359425871872"><img src="https://lanyard-profile-readme.vercel.app/api/443287359425871872"/></a>
 </p>
  
+<a href="https://data.typeracer.com/pit/profile?user=llameoww&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=llameoww" border="0" alt="TypeRacer.com scorecard for user llameoww"/></a>
